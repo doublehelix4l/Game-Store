@@ -12,4 +12,6 @@ router.use('/video-games', require('./videoGames'));
 // ROUTER: /api/board-games
 router.use('/board-games', require('./boardGames'));
 
+
+
 module.exports = router;
